@@ -4,7 +4,7 @@
 This is a simple web application built using **Flask** and a **Machine Learning model** to predict stock closing prices based on user input features like Open, High, Low, and Volume.
 
 <p align="center">
-  <img src="https://dummyimage.com/720x600" alt="Demo Screenshot" width="500"/>
+  <img src="Screenshot 2025-06-08 150334.png" alt="Demo Screenshot" width="500"/>
 </p>
 
 ## 🔍 Project Overview
