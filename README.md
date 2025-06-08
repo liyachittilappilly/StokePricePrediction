@@ -71,7 +71,7 @@ Navigate to: [http://127.0.0.1:5000/](http://127.0.0.1:5000/)
 ### 📤 Prediction Output:
 
 <p align="center">
-  <img src="Screenshot 2025-06-08 150334.png" alt="Demo Screenshot" width="500"/>
+  <img src="Screenshot 2025-06-08 165231.png" alt="Demo Screenshot" width="500"/>
 </p>
 ---
 
