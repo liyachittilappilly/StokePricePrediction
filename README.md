@@ -64,12 +64,15 @@ Navigate to: [http://127.0.0.1:5000/](http://127.0.0.1:5000/)
 
 ### 📥 Input Page:
 
-![Form Screenshot](https://dummyimage.com/720x600)
+<p align="center">
+  <img src="Screenshot 2025-06-08 150334.png" alt="Demo Screenshot" width="500"/>
+</p>
 
 ### 📤 Prediction Output:
 
-![Prediction Screenshot](https://dummyimage.com/720x200)
-
+<p align="center">
+  <img src="Screenshot 2025-06-08 150334.png" alt="Demo Screenshot" width="500"/>
+</p>
 ---
 
 ## 📚 Acknowledgments
