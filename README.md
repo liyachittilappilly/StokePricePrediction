@@ -1,4 +1,3 @@
-
 # 📈 Stock Price Predictor Web App
 
 This is a simple web application built using **Flask** and a **Machine Learning model** to predict stock closing prices based on user input features like Open, High, Low, and Volume.
@@ -102,11 +101,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-> Made with ❤️ by Rosu | Computer Science Student @ VAST
-
-```
-
----
-
-Would you like me to generate a `requirements.txt` file too for GitHub or help you deploy this app on **Render**, **Vercel**, or **Railway**?
-```
+> Made with ❤️ by Liya | Computer Science Student @ VAST
